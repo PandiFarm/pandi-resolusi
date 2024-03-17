@@ -1,0 +1,6 @@
+Pandi Resolusi
+Saya konsisten dalam tahun 2024 ini harus bisa menguasai beberapa tools yang di gunakana dalam menunjang skill programming saya di antaranya :
+1. frame work laravel php
+2. Bekerja dengan GIT
+3. API/payment
+4. Docker

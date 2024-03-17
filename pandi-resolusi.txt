@@ -4,3 +4,4 @@ Saya konsisten dalam tahun 2024 ini harus bisa menguasai beberapa tools yang di 
 2. Bekerja dengan GIT
 3. API/payment
 4. Docker
+5. upload website laravel ke hosting

@@ -1,1 +1,5 @@
 Saat ini saya sedang berada di bulan yang berkah ini Ramadhan ingin menargetkan konsisten belajar laravel sampai dengan bulan agustus sudah harus menguasai framework php laravel
+# Malem rabu tgl 19 maret 2024 saya belajar membuat project baru dengan laravel dengan susunan belajar sebagai berikut :
+1. composer create-project laravel/laravel projek-laravel
+2. cara membuat project baru menggunakan installer laravel -> composer global require laravel/installer enter -> laravel new isikan nama folder project nya.
+3. struktur folder pada laravel -> Routes & View
